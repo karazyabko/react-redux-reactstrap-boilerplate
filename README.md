@@ -2,7 +2,7 @@
 
 ## Description
 
-Boilerplate for React project, which includes:
+Boilerplate for React project, generated with create-react-app, which includes:
 
 - Redux as a state management system
 - Redux-thunk as a middleware for action creators
